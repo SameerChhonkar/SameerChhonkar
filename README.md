@@ -8,9 +8,7 @@ Sensible, Ambitious, Meticulous, Energetic, Earnest and Rational, the words maki
 
 A radiant and cheerful personality with my camera and tools creating a completely different world where reality blends with dreams and an ingenious imagination.</div>  
   
-
-<br/>  
-
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
