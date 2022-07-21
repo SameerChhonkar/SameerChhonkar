@@ -2,7 +2,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-
 ## <div align="center">Hola Amigos! A novel designer and flutter enthusiast on this side of screen.
 Sensible, Ambitious, Meticulous, Energetic, Earnest and Rational, the words making my name and defining the real me.
 
