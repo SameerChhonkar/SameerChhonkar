@@ -72,7 +72,14 @@ A radiant and cheerful personality with my camera and tools creating a completel
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SameerChhonkar&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<br />
+<br/>
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SameerChhonkar&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SameerChhonkar&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
 
 ----
