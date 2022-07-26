@@ -77,6 +77,7 @@ A radiant and cheerful personality with my camera and tools creating a completel
   <a href="https://abhigyantrips.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SameerChhonkar&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SameerChhonkar&theme=gruvbox&hide_border=true" />
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Astha369&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   </a>
 </p>
 <br>
