@@ -79,6 +79,6 @@ A radiant and cheerful personality with my camera and tools creating a completel
   </a>
 </p>
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=SameerChhonkar&theme=gruvbox)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=SameerChhonkar&theme=gruvbox)](https://git.io/streak-stats)
 
 ----
